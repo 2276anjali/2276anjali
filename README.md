@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi 👋, I'm Anjali Gupta
 
-<!--
-**2276anjali/2276anjali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer (HTML/CSS) | 🚀 Job Seeker | 🌱 Passionate About Web Design  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 💼 Actively seeking entry-level Frontend Developer roles  
+- 🌱 Currently improving my skills in modern web design  
+- 🎯 Focused on building responsive and user-friendly websites  
+- 💬 Ask me about HTML, CSS, and basic web development  
+- ⚡ I enjoy turning ideas into clean and responsive web pages  
+
+---
+
+## 🛠️ Skills
+
+### 🌐 Frontend
+- HTML5  
+- CSS3  
+- Responsive Design  
+- Flexbox & Grid  
+
+### ⚙️ Tools
+- Git  
+- GitHub  
+- VS Code  
+
+---
+
+## 📂 Projects
+
+- 🌐 Responsive Portfolio Website  
+- 📄 Landing Page Design  
+- 🎨 Basic UI Layout Projects  
+
+*(More projects coming soon...)*
+
+---
+
+## 📊 GitHub Stats
+
+![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: (Add your LinkedIn link here)  
+- 📧 Email: (Add your email here)  
+
+---
+
+⭐️ Thank you for visiting my profile!
